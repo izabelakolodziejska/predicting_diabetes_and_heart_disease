@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+torch
+pytorch_tabnet
+scipy
+json
