@@ -25,8 +25,8 @@ This project focuses on comparing single-task and multi-task learning, using dis
 
 
 ## Setup and usage
-In order to use the project you have to download BRFSS data for both 2024 and 2023 (here is a link for 2024) https://www.cdc.gov/brfss/annual_data/annual_2024.html, then create data folder and put it here.
-This project consists of a few steps. 
+In order to use the project you have to download BRFSS data for both 2024 and 2023 (here is a link for 2024: https://www.cdc.gov/brfss/annual_data/annual_2024.html), then create data folder and put it here.
+This project consists of a few steps:
 1. Loading and preprocessing data - run scripts/prepare_data.py.py
 2. Training single task model - run scripts/train_single diabetes and scripts/train_single heart 
 3. Training multi task model - run scripts/train_multi.py
